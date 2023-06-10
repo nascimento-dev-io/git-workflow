@@ -1,0 +1,17 @@
+{
+  "name": "learning-git",
+  "version": "1.0.0",
+  "description": "Learning Git and Conventional Commit",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@commitlint/cli": "^17.6.5",
+    "@commitlint/config-conventional": "^17.6.5",
+    "husky": "^8.0.0"
+  }
+}
