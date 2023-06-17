@@ -1,6 +1,6 @@
 ## Git e Workflow
 
-Conteudo relacionado ao git e padroes/conversoes utilizando no workflow do dia a dia.
+Conteúdo relacionado ao git e padrões/conversões utilizando no workflow do dia a dia.
 
 - [Principais comandos do Git](./contents/git.md)
 - [Conventional Commits](./contents/conventional-commits.md)
