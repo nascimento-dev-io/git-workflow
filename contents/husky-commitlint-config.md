@@ -78,6 +78,6 @@ git commit -am 'bad message'
 husky - commit-msg hook exited with code 1 (error)
 ```
 
-> Conheça o Conventional Commits Pattern
+> Conheça o [Conventional Commits Pattern](./conventional-commits.md)
 
 Existem outras ferramentas para auxiliar a manter padronizações tais como [commitizen](https://commitizen-tools.github.io/commitizen/), [lint-staged](https://github.com/okonet/lint-staged) entre outras.
